@@ -33,7 +33,7 @@ Unfortunately, `git` seems to not provide a way to pass CLI options to GnuPG,
 so a wrapper around GPG would be needed which can be configured in git config.
 
 Note that this repository is subject to history rewriting until the tool is
-able to fake the meta data of its one repo in an consistent way obviously ;)
+able to fake the meta data of its own repo in an consistent way obviously ;)
 
 Planned features
 ----------------
