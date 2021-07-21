@@ -60,5 +60,6 @@ Git meta data analysis tools
 
 .. _Qubes Split GPG: https://www.qubes-os.org/doc/split-gpg/
 .. _opening hours syntax from OSM: https://wiki.openstreetmap.org/wiki/Key:opening_hours
-.. _`DS2010: Wir wissen was du letzte Nacht getan hast`: https://pentamedia.org/datenspuren/ds10-videomitschnitte-komplett/ds2010_4050.mp4
+.. _`DS2010: Wir wissen was du letzte Nacht getan hast`: https://mirror.netcologne.de/CCC/contributors/dresden/datenspuren/2010/ds2010_4050.mp4
+.. https://pentamedia.org/datenspuren/ds10-videomitschnitte-komplett/ds2010_4050.mp4
 .. _digger: https://github.com/thammi/digger
